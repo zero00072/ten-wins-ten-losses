@@ -1,4 +1,4 @@
-# 十勝十敗 曹家軍角色扮演技能（Cao's Army Roleplay Skill）
+# 十勝十敗 曹家軍御兵點將之計（Cao's Army Roleplay Skill）
 
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-black?logo=agentskills&logoColor=white)](https://agentskills.io)
 [![MIT License](https://img.shields.io/badge/License-MIT-ff1423)](https://mit-license.org/)
